@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    background-image: url(wallpaperflare.com_wallpaper\ \(3\).jpg);
+
+}
+
+
+title{
+    border: 10px;
+}
+h1{
+    border: solid 10px red;
+    color: aliceblue;
+    text-align: center;
+}
+img{
+    border-radius: 50px;
+    border: solid 5px black;
+    
+}
+h3{
+    border-radius: 10px;
+    background-color: aliceblue;
+    border: solid;
+   
+}
+div{
+    align-items: center;
+    color: aliceblue;
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
+    border-radius: 100px;
+    border: solid  aliceblue;
+    height: 100px;
+    width: 200px;
+    
+}
